@@ -1,4 +1,4 @@
-# Sistema de Biblioteca em C#
+# Sistema de Biblioteca em Csharp
 
 Este é um projeto simples de sistema de biblioteca criado para fins de aprendizado em C#.
 

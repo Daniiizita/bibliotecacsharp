@@ -1,5 +1,11 @@
 using System;
 
+/*
+Esse código define uma classe chamada "Livro" que representa um livro em um sistema de biblioteca. 
+A classe possui propriedades para armazenar o título, autor, editora e disponibilidade do livro. 
+Além disso, possui um construtor que permite criar uma nova instância do livro com o título, autor e editora especificados.
+*/
+
 namespace SistemaBiblioteca
 {
 
